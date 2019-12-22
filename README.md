@@ -1,7 +1,10 @@
+### Pre-work
+
+install wget
+
 ### Start
 ```
-# first, install wget
 yarn
-./download
-# input your dirname and album url with shell script
+./download.sh
+# then follow the prompts input your dirname and album url
 ```
